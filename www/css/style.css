@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+}
+
+nav img {
+    width: 60px;
+    margin-right: 1em;
+}
+
+nav h1 {
+    text-transform: uppercase;
+    font-size: .875em;
+    letter-spacing: 2px;
+}
+
+h1, p {
+    font-family: Sharp Sans, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: orange;
+}
+
+div#container {
+    width: 1080px;
+    margin: 0 auto;
+}

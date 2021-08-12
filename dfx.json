@@ -1,0 +1,11 @@
+{
+    "canisters": {
+        "web": {
+            "type": "assets",
+            "source": [
+                "www",
+                "www/css"
+            ]
+        }
+    }
+}
