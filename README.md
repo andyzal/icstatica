@@ -53,3 +53,9 @@ Depending where you deployed the canister, you can find it on:
 ---
 
 <img src="index.png">
+
+Updates:
+More readings on deployment process: https://sdk.dfinity.org/docs/quickstart/network-quickstart.html
+Note: There is not necessary to use npm install or having node package installed as this is assumed that to www folder we copy a coplete content of dist/spa folder build up in other place.
+Consider  dfx deploy --network=ic --no-wallet     instead of   dfx deploy --network=ic
+To provide smooth usage on mobile browsers rather use https://gsueu-yaaaa-aaaae-aaagq-cai.raw.ic0.app where name of the container is replaced by your name of the asset container.
